@@ -134,8 +134,7 @@ YT_Q-A_RAG/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/YT_Q-A_RAG.git
-cd YT_Q-A_RAG
+https://github.com/PrankitBajpai/YT_Q-A_RAG_.git
 ```
 
 ### 2️⃣ Create Virtual Environment
